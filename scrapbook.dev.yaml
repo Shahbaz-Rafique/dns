@@ -4,3 +4,6 @@
 "*":
   type: CNAME
   value: proxyparty.hackclub.com.
+ "@":
+  type: TXT
+  value:zoho-verification=zb68547065.zmverify.zoho.com
